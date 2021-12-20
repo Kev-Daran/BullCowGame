@@ -1,7 +1,7 @@
 
 
 # Gameplay
-Guess the word chosen from around a 1000 words based on the hints.
+Guess the word chosen from around a 1000 words based on the hints
 
 
 
